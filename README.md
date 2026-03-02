@@ -1,4 +1,4 @@
-## Hi there, I'm A.W. Kithsara 👋
+👋Hi there, I'm A.W. Kithsara 
 
 🎓 **Computer Science Undergraduate (Year 2)**  
 🏫 **IIT** — Academic Partner of the University of Westminster  
@@ -69,15 +69,15 @@ Some repositories are complete, some are in progress, and all of them reflect my
 
 ## 🎯 Current Focus
 
-- Strengthening core software engineering fundamentals
-- Expanding hands-on AI/ML knowledge
-- Practicing secure coding and cyber security concepts
+- Machine Learning
+- Artificial Intelligence
+- CyberSecurity
 
 ---
 
 ## 📈 Goal
 
-To become a well-rounded software engineer who can design intelligent, secure, and impactful solutions.
+To grow into a versatile technology professional who can design intelligent, secure, and scalable systems that create meaningful impact in the real world.
 
 
 
