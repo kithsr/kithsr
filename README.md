@@ -4,6 +4,29 @@
 🏫 **IIT** — Academic Partner of the University of Westminster  
 🚀 Building skills, projects, and consistency one commit at a time
 
+## 🌐 Connect with Me
+
+<p>
+	<a href="https://www.linkedin.com/in/your-linkedin-username" target="_blank">
+		<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+	</a>
+	<a href="https://www.facebook.com/your-facebook-username" target="_blank">
+		<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+	</a>
+	<a href="https://www.instagram.com/your-instagram-username" target="_blank">
+		<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+	</a>
+	<a href="https://www.hackerrank.com/your-hackerrank-username" target="_blank">
+		<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
+	</a>
+</p>
+
+## 🛠️ Languages & Tools
+
+<p>
+	<img src="https://skillicons.dev/icons?i=java,python,html,css,js,react,spring,angular,nodejs,mysql,mongodb,aws,docker,git,figma,linux,androidstudio,kotlin,bootstrap,arduino" alt="Languages and Tools" />
+</p>
+
 ---
 
 ## 🔍 About Me
