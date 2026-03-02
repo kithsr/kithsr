@@ -1,31 +1,50 @@
-👨‍💻 A.W.Kithsara
-🎓 Computer Science Undergraduate (Year 2)
-🏫 IIT – Academic Partner of the University of Westminster
-🚀 Exploring the world of software, one project at a time
+## Hi there, I'm A.W. Kithsara 👋
+
+🎓 **Computer Science Undergraduate (Year 2)**  
+🏫 **IIT** — Academic Partner of the University of Westminster  
+🚀 Building skills, projects, and consistency one commit at a time
+
+---
+
+## 🔍 About Me
+
+I'm a curious and motivated CS student who enjoys turning ideas into practical, working applications.
+
+I care about:
+- Writing clean, structured code
+- Improving problem-solving through real projects
+- Learning by building and iterating
+
+I'm especially interested in:
+- 🤖 Artificial Intelligence
+- 🧠 Machine Learning
+- 🔐 Cyber Security
+
+---
+
+## 🛠️ What You'll Find Here
+
+This GitHub is my learning lab — a place where I:
+- Experiment with new concepts
+- Build coursework and personal projects
+- Track my growth as a developer
+
+Some repositories are complete, some are in progress, and all of them reflect my journey.
+
+---
+
+## 🎯 Current Focus
+
+- Strengthening core software engineering fundamentals
+- Expanding hands-on AI/ML knowledge
+- Practicing secure coding and cyber security concepts
+
+---
+
+## 📈 Goal
+
+To become a well-rounded software engineer who can design intelligent, secure, and impactful solutions.
 
 
-🔍 About Me
-
-I’m a curious and motivated Computer Science student who enjoys turning ideas into working applications.
-I focus on writing clean, structured code and continuously improving my problem-solving skills.
-
-I’m particularly interested in Artificial Intelligence, Machine Learning, and Cyber Security, and I’m always exploring ways to expand my knowledge in these areas.
-
-This GitHub is my space to experiment, build, and grow as a developer.
 
 
-
-<!--
-**kithsr/kithsr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
