@@ -22,7 +22,14 @@
 ## 🛠️ Languages & Tools
 
 <p>
-	<img src="https://skillicons.dev/icons?i=java,python,html,css,js,react,spring,angular,nodejs,mysql,mongodb,aws,docker,git,figma,linux,androidstudio,kotlin,bootstrap,arduino" alt="Languages and Tools" />
+	<img src="https://skillicons.dev/icons?i=github,git,java,python,javascript,nextjs,nodejs,html,css,tailwind" alt="Languages and Tools" />
+</p>
+
+<p>
+	<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+	<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib" />
+	<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
+	<img src="https://img.shields.io/badge/Machine%20Learning-0A192F?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" alt="Machine Learning" />
 </p>
 
 ---
