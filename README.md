@@ -69,9 +69,9 @@ Some repositories are complete, some are in progress, and all of them reflect my
 
 ## 🎯 Current Focus
 
-- Machine Learning
-- Artificial Intelligence
-- CyberSecurity
+- Software Development Group Project
+- Machine Learning Coursework
+- Client-Server Architecture Coursework
 
 ---
 
