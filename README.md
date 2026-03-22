@@ -4,6 +4,11 @@
 🏫 **IIT** — Academic Partner of the University of Westminster  
 🚀 Building skills, projects, and consistency one commit at a time
 
+👨‍💻 Portfolio:
+
+📁 Check out my work:
+🔗 https://kithsr.github.io/Personal-Portfolio/
+
 ## 🌐 Connect with Me
 
 <p>
