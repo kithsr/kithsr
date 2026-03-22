@@ -6,7 +6,7 @@
 
 👨‍💻 Portfolio:
 
-📁 Check out my work:
+📁 Check out my work:  
 🔗 https://kithsr.github.io/Personal-Portfolio/
 
 ## 🌐 Connect with Me
