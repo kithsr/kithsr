@@ -74,8 +74,8 @@ Some repositories are complete, some are in progress, and all of them reflect my
 
 ## 🎯 Current Focus
 
-- Software Development Group Project
-- Machine Learning Coursework
+- Developing a shopping cart using MERN stack
+- Machine Learning Lab Assessment
 - Client-Server Architecture Coursework
 
 ---
