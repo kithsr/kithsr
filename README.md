@@ -98,9 +98,9 @@
 
 | Project | Status |
 |---|---|
-| 🛒 MERN Stack Shopping Cart | 🔨 In Progress |
-| 🤖 Machine Learning Lab Assessment | 📖 Active |
-| 🌐 Client-Server Architecture Coursework | 📖 Active |
+| 🛒 MERN Stack Shopping Cart | 🔨 Completed |
+| 🤖 SkillTracker System | 📖 In Progress |
+| 🌐 SLT-Mobitel Smart Employee System | 📖 In Progress |
 
 ---
 
