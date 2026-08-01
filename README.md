@@ -17,9 +17,9 @@
 
 > *"I enjoy turning ideas into practical, working applications — one commit at a time."*
 
-- 🎓 **Year 2 CS Undergraduate** at **IIT**, Academic Partner of the University of Westminster
+- 🎓 **Year 3 CS Undergraduate** at **IIT**, Academic Partner of the University of Westminster
 - 🔭 Currently building a **MERN Stack Shopping Cart** application
-- 📖 Working on **Machine Learning** coursework and **Client-Server Architecture**
+- 📖 Working on Smart Bus System with SLTMobitel
 - 💡 Deeply interested in **Artificial Intelligence**, **Machine Learning**, and **Cyber Security**
 - 🧠 I learn best by building — every repo here reflects a step in my journey
 - 📫 Reach me at **kithsarawitharana21@gmail.com**
@@ -99,8 +99,8 @@
 | Project | Status |
 |---|---|
 | 🛒 MERN Stack Shopping Cart | 🔨 Completed |
-| 🤖 SkillTracker System | 📖 In Progress |
-| 🌐 SLT-Mobitel Smart Employee System | 📖 In Progress |
+| 🤖 Smart Bus System | 📖 In Progress |
+| 🌐 SLT-Mobitel Smart Employee System | 🔨 Completed |
 
 ---
 
